@@ -1,0 +1,3 @@
+`poetry env activate`
+
+`pytest`
