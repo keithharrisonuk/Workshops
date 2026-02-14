@@ -3,6 +3,8 @@
 
 `poetry run pytest`
 
+`poetry run ptw .`
+
 # uv
 `uv install`
 

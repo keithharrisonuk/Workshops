@@ -1,4 +1,3 @@
-import pytest
 from src.lession1 import ShareSerivce
 
 

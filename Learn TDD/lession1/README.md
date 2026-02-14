@@ -1,3 +1,13 @@
-`poetry env activate`
+# Poetry
+`poetry install`
 
-`pytest`
+`poetry run pytest`
+
+`poetry run ptw .`
+
+# uv
+`uv install`
+
+`uv run pytest`
+
+`uv run ptw .`
