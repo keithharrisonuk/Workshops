@@ -1,0 +1,20 @@
+[project]
+name = "lession2"
+version = "1.0.0"
+description = ""
+authors = [
+    {name = "keithharrisonuk",email = "keithharrisonuk@yahoo.co.uk"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+    "pytest-watcher>=0.6.3",
+]
