@@ -1,5 +1,5 @@
 import pytest
-from src.lession1.lession1 import ShareSerivce
+from src.lession1 import ShareSerivce
 
 
 def test_buy_shares():
